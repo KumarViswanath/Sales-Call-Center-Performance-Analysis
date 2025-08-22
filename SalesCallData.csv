@@ -1,0 +1,560 @@
+Abandoned,Branch,Busy Hours,Busy Minutes,Total Wait Time,Call Purpose,Calls,Hours,Incoming Wait Time,Incoming or Outgoing,Lost Call (bin),Lost Call,Not Ready Hours,Not Ready Minutes,Number of Records,Queue,Rep ID (group),Rep ID,Sale,Waiting Hours,Waiting Minutes,Shift
+0,North,0.15,9,3,Complaint,1,9,1,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Morning
+0,North,0.15,9,3,Complaint,1,9,1,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.066666667,4,Morning
+0,North,0.166666667,10,6,Complaint,1,9,4,Incoming,0,0,0.033333333,2,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.05,3,Evening
+0,South,0.166666667,10,3,Complaint,1,9,2,Incoming,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Afternoon
+0,South,0.133333333,8,7,Complaint,1,9,5,Incoming,0,0,0.033333333,2,1,D,"Eric, George, Helga",Helga,NO,0.033333333,2,Morning
+0,North,0.2,12,6,Complaint,1,10,4,Incoming,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Afternoon
+0,South,0.2,12,8,Complaint,1,10,5,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Afternoon
+0,South,0.2,12,5,Complaint,1,10,3,Incoming,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Karl,NO,0.066666667,4,Evening
+0,North,0.166666667,10,7,Complaint,1,10,5,Incoming,0,0,0.033333333,2,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.033333333,2,Evening
+0,South,0.166666667,10,3,Complaint,1,10,2,Incoming,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Morning
+0,South,0.15,9,6,Complaint,1,10,3,Incoming,0,0,0.05,3,1,C,Sharon & Susan,Susan,NO,0.033333333,2,Morning
+0,South,0.133333333,8,7,Complaint,1,11,4,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Josh,NO,0.066666667,4,Evening
+0,South,0.2,12,6,Complaint,1,11,5,Incoming,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.066666667,4,Afternoon
+0,South,0.2,12,4,Complaint,1,11,1,Incoming,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.066666667,4,Morning
+0,South,0.166666667,10,3,Complaint,1,12,2,Incoming,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Kate,NO,0.033333333,2,Afternoon
+0,North,0.166666667,10,7,Complaint,1,12,4,Incoming,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Afternoon
+0,North,0.133333333,8,3,Complaint,1,12,1,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Evening
+0,South,0.15,9,7,Complaint,1,12,4,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.05,3,Evening
+0,North,0.2,12,3,Complaint,1,12,2,Incoming,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.066666667,4,Afternoon
+0,South,0.15,9,3,Complaint,1,12,2,Incoming,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.033333333,2,Morning
+0,South,0.15,9,4,Complaint,1,12,1,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Josh,NO,0.033333333,2,Afternoon
+0,South,0.183333333,11,3,Complaint,1,12,2,Incoming,0,0,0.016666667,1,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Afternoon
+0,North,0.183333333,11,7,Complaint,1,12,5,Incoming,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Evening
+0,South,0.183333333,11,6,Complaint,1,12,3,Incoming,0,0,0.05,3,1,C,Sharon & Susan,Susan,NO,0.033333333,2,Evening
+0,South,0.133333333,8,5,Complaint,1,12,2,Incoming,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.05,3,Morning
+0,South,0.166666667,10,7,Complaint,1,13,5,Incoming,0,0,0.033333333,2,1,D,"Alice, Randy, Sandy",Randy,NO,0.066666667,4,Morning
+0,South,0.133333333,8,5,Complaint,1,13,2,Incoming,0,0,0.05,3,1,C,"Eric, George, Helga",Eric,NO,0.033333333,2,Evening
+0,South,0.2,12,4,Complaint,1,13,1,Incoming,0,0,0.05,3,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Afternoon
+0,South,0.166666667,10,4,Complaint,1,13,1,Incoming,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Sandy,NO,0.05,3,Morning
+0,North,0.2,12,2,Complaint,1,13,1,Incoming,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.05,3,Afternoon
+0,South,0.15,9,3,Complaint,1,13,2,Incoming,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Afternoon
+0,South,0.15,9,7,Complaint,1,14,4,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Evening
+0,South,0.133333333,8,4,Complaint,1,14,2,Incoming,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Karl,NO,0.066666667,4,Evening
+0,South,0.183333333,11,8,Complaint,1,14,5,Incoming,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Alice,NO,0.05,3,Morning
+0,North,0.15,9,5,Complaint,1,14,2,Incoming,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.066666667,4,Morning
+0,North,0.166666667,10,5,Complaint,1,14,3,Incoming,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Evening
+0,North,0.15,9,4,Complaint,1,15,1,Incoming,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Morning
+0,South,0.15,9,6,Complaint,1,15,3,Incoming,0,0,0.05,3,1,D,"Eric, George, Helga",George,NO,0.066666667,4,Morning
+0,South,0.15,9,3,Complaint,1,15,2,Incoming,0,0,0.016666667,1,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Evening
+0,South,0.166666667,10,7,Complaint,1,15,5,Incoming,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Afternoon
+0,South,0.2,12,3,Complaint,1,15,2,Incoming,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.033333333,2,Morning
+0,South,0.166666667,10,5,Complaint,1,15,2,Incoming,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Afternoon
+0,South,0.2,12,5,Complaint,1,16,4,Incoming,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.066666667,4,Afternoon
+0,South,0.2,12,7,Complaint,1,16,4,Incoming,0,0,0.05,3,1,D,"Eric, George, Helga",George,NO,0.05,3,Evening
+0,South,0.15,9,8,Complaint,1,16,5,Incoming,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Sandy,NO,0.05,3,Evening
+0,North,0.133333333,8,7,Complaint,1,17,4,Incoming,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Morning
+0,South,0.166666667,10,5,Complaint,1,17,2,Incoming,0,0,0.05,3,1,D,"Eric, George, Helga",Helga,NO,0.05,3,Morning
+0,South,0.2,12,6,Complaint,1,17,5,Incoming,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.066666667,4,Evening
+0,South,0.2,12,4,Complaint,1,17,1,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.066666667,4,Afternoon
+0,North,0.15,9,7,Complaint,1,17,5,Incoming,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Morning
+0,South,0.183333333,11,6,Complaint,1,17,3,Incoming,0,0,0.05,3,1,C,Sharon & Susan,Sharon,NO,0.066666667,4,Afternoon
+0,North,0.2,12,,Product Support,1,9,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Afternoon
+0,North,0.15,9,6,Product Support,1,10,4,Incoming,0,0,0.033333333,2,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.033333333,2,Evening
+0,North,0.15,9,,Product Support,1,10,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.05,3,Evening
+0,South,0.15,9,,Product Support,1,10,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.033333333,2,Afternoon
+0,South,0.166666667,10,,Product Support,1,10,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Sandy,NO,0.033333333,2,Morning
+0,South,0.2,12,5,Product Support,1,10,2,Incoming,0,0,0.05,3,1,C,Sharon & Susan,Susan,NO,0.05,3,Afternoon
+0,North,0.2,12,,Product Support,1,10,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Afternoon
+0,North,0.2,12,,Product Support,1,10,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Evening
+0,South,0.166666667,10,,Product Support,1,10,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Josh,NO,0.066666667,4,Evening
+0,North,0.166666667,10,,Product Support,1,10,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.033333333,2,Morning
+0,South,0.133333333,8,,Product Support,1,10,,Outgoing,0,0,0.033333333,2,1,D,"Eric, George, Helga",George,NO,0.066666667,4,Morning
+0,North,0.166666667,10,,Product Support,1,10,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Evening
+0,South,0.15,9,,Product Support,1,10,,Outgoing,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Alice,NO,0.033333333,2,Afternoon
+0,North,0.2,12,,Product Support,1,10,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Morning
+0,North,0.133333333,8,,Product Support,1,10,,Outgoing,0,0,0.05,3,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.05,3,Afternoon
+0,North,0.183333333,11,,Product Support,1,10,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Afternoon
+0,South,0.133333333,8,,Product Support,1,10,,Outgoing,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Alice,NO,0.033333333,2,Evening
+0,North,0.133333333,8,,Product Support,1,10,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.066666667,4,Evening
+0,North,0.2,12,,Product Support,1,10,,Outgoing,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Morning
+0,South,0.166666667,10,6,Product Support,1,10,3,Incoming,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Alice,NO,0.033333333,2,Morning
+0,South,0.133333333,8,,Product Support,1,10,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.05,3,Evening
+0,South,0.183333333,11,,Product Support,1,11,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Josh,NO,0.05,3,Afternoon
+0,North,0.183333333,11,,Product Support,1,11,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Morning
+0,South,0.15,9,5,Product Support,1,11,4,Incoming,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Afternoon
+0,South,0.183333333,11,,Product Support,1,11,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Kate,NO,0.033333333,2,Afternoon
+0,South,0.2,12,,Product Support,1,11,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.033333333,2,Evening
+0,South,0.2,12,,Product Support,1,11,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.033333333,2,Evening
+0,South,0.15,9,6,Product Support,1,11,3,Incoming,0,0,0.05,3,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Morning
+0,South,0.183333333,11,,Product Support,1,11,,Outgoing,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Morning
+0,South,0.133333333,8,2,Product Support,1,11,1,Incoming,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.033333333,2,Evening
+0,North,0.166666667,10,,Product Support,1,11,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.033333333,2,Afternoon
+0,North,0.2,12,,Product Support,1,11,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.066666667,4,Morning
+0,South,0.133333333,8,7,Product Support,1,11,5,Incoming,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Sandy,NO,0.033333333,2,Afternoon
+0,North,0.15,9,,Product Support,1,11,,Outgoing,0,0,0.033333333,2,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.05,3,Afternoon
+0,South,0.2,12,,Product Support,1,11,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.05,3,Evening
+0,North,0.2,12,,Product Support,1,11,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.033333333,2,Evening
+0,North,0.15,9,,Product Support,1,11,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Afternoon
+0,North,0.133333333,8,,Product Support,1,11,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.05,3,Morning
+0,North,0.183333333,11,,Product Support,1,11,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.05,3,Afternoon
+0,South,0.166666667,10,3,Product Support,1,11,2,Incoming,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.05,3,Afternoon
+0,North,0.2,12,,Product Support,1,11,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Evening
+0,South,0.15,9,,Product Support,1,11,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.066666667,4,Evening
+0,South,0.133333333,8,,Product Support,1,11,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Morning
+0,North,0.133333333,8,5,Product Support,1,11,4,Incoming,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.066666667,4,Morning
+0,North,0.183333333,11,,Product Support,1,11,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.033333333,2,Evening
+0,North,0.166666667,10,,Product Support,1,11,,Outgoing,0,0,0.016666667,1,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.066666667,4,Afternoon
+0,South,0.2,12,3,Product Support,1,11,2,Incoming,0,0,0.016666667,1,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Morning
+0,South,0.15,9,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Afternoon
+0,South,0.183333333,11,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,D,"Eric, George, Helga",Helga,NO,0.05,3,Afternoon
+0,South,0.15,9,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,D,"Alice, Randy, Sandy",Randy,NO,0.066666667,4,Evening
+0,South,0.15,9,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.033333333,2,Evening
+0,North,0.183333333,11,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Morning
+0,South,0.133333333,8,5,Product Support,1,12,4,Incoming,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Josh,NO,0.05,3,Morning
+0,South,0.166666667,10,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Evening
+1,South,0.2,12,,Product Support,1,12,,Outgoing,1,1,0.033333333,2,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Morning
+0,South,0.133333333,8,2,Product Support,1,12,1,Incoming,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.05,3,Morning
+0,South,0.15,9,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Eric, George, Helga",George,NO,0.066666667,4,Evening
+0,North,0.133333333,8,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Afternoon
+0,South,0.15,9,5,Product Support,1,12,4,Incoming,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.05,3,Morning
+0,South,0.183333333,11,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.05,3,Afternoon
+0,South,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.033333333,2,Afternoon
+0,North,0.133333333,8,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.066666667,4,Evening
+0,North,0.183333333,11,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.066666667,4,Evening
+0,South,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Sandy,NO,0.05,3,Morning
+0,South,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Morning
+0,North,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.05,3,Evening
+0,North,0.133333333,8,3,Product Support,1,12,1,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Afternoon
+0,North,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Morning
+0,South,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Susan,NO,0.033333333,2,Afternoon
+0,South,0.133333333,8,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Karl,NO,0.05,3,Afternoon
+0,North,0.183333333,11,8,Product Support,1,12,5,Incoming,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.05,3,Evening
+0,South,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,D,"Eric, George, Helga",George,NO,0.066666667,4,Evening
+0,South,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Sandy,NO,0.033333333,2,Afternoon
+0,South,0.166666667,10,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Morning
+0,North,0.15,9,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.05,3,Afternoon
+0,South,0.183333333,11,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Karl,NO,0.066666667,4,Afternoon
+0,North,0.133333333,8,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Evening
+0,North,0.15,9,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Evening
+0,North,0.15,9,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Morning
+0,South,0.133333333,8,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Eric, George, Helga",Helga,NO,0.033333333,2,Morning
+0,South,0.183333333,11,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Karl,NO,0.05,3,Evening
+0,North,0.183333333,11,3,Product Support,1,12,2,Incoming,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.05,3,Afternoon
+0,North,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Morning
+0,South,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Alice,NO,0.033333333,2,Morning
+0,South,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Morning
+0,South,0.15,9,3,Product Support,1,12,2,Incoming,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.033333333,2,Evening
+0,South,0.183333333,11,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,C,Sharon & Susan,Susan,NO,0.033333333,2,Afternoon
+0,North,0.15,9,7,Product Support,1,12,5,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Morning
+0,South,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.066666667,4,Afternoon
+0,South,0.15,9,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,D,"Eric, George, Helga",Helga,NO,0.033333333,2,Afternoon
+0,South,0.133333333,8,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Alice,NO,0.033333333,2,Evening
+0,South,0.166666667,10,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.033333333,2,Evening
+0,North,0.133333333,8,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Morning
+0,North,0.166666667,10,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.05,3,Morning
+0,South,0.166666667,10,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,YES,0.05,3,Evening
+0,North,0.15,9,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.05,3,Afternoon
+0,North,0.166666667,10,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.05,3,Morning
+0,South,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.033333333,2,Afternoon
+0,South,0.133333333,8,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.066666667,4,Afternoon
+0,South,0.166666667,10,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Josh,NO,0.066666667,4,Evening
+0,North,0.183333333,11,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.066666667,4,Evening
+0,North,0.166666667,10,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Afternoon
+0,South,0.2,12,4,Product Support,1,12,3,Incoming,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.033333333,2,Morning
+0,South,0.166666667,10,,Product Support,1,12,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.033333333,2,Afternoon
+0,North,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.066666667,4,Afternoon
+0,South,0.2,12,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.033333333,2,Evening
+0,North,0.133333333,8,,Product Support,1,12,,Outgoing,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.066666667,4,Evening
+0,North,0.15,9,,Product Support,1,12,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.05,3,Morning
+0,South,0.15,9,,Product Support,1,13,,Outgoing,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.05,3,Morning
+0,South,0.166666667,10,,Product Support,1,13,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.066666667,4,Evening
+1,South,0.15,9,,Product Support,1,13,,Outgoing,1,1,0.05,3,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Afternoon
+0,North,0.166666667,10,,Product Support,1,13,,Outgoing,0,0,0.033333333,2,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.033333333,2,Morning
+0,South,0.166666667,10,,Product Support,1,13,,Outgoing,0,0,0.05,3,1,C,Sharon & Susan,Susan,NO,0.05,3,Afternoon
+0,South,0.183333333,11,,Product Support,1,13,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Karl,YES,0.033333333,2,Afternoon
+0,North,0.166666667,10,,Product Support,1,13,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Evening
+0,South,0.133333333,8,,Product Support,1,13,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.05,3,Evening
+0,North,0.133333333,8,,Product Support,1,13,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Morning
+0,North,0.2,12,,Product Support,1,13,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.05,3,Morning
+0,South,0.2,12,,Product Support,1,13,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Sandy,NO,0.05,3,Evening
+0,South,0.166666667,10,,Product Support,1,13,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.033333333,2,Morning
+0,North,0.166666667,10,,Product Support,1,13,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.033333333,2,Morning
+0,North,0.133333333,8,4,Product Support,1,13,2,Incoming,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.05,3,Evening
+0,North,0.15,9,7,Product Support,1,13,5,Incoming,0,0,0.033333333,2,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.066666667,4,Afternoon
+0,South,0.15,9,,Product Support,1,13,,Outgoing,0,0,0.05,3,1,D,"Eric, George, Helga",George,NO,0.05,3,Morning
+0,North,0.183333333,11,,Product Support,1,13,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.033333333,2,Afternoon
+0,South,0.2,12,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Afternoon
+0,South,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.066666667,4,Evening
+0,South,0.2,12,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Evening
+0,South,0.15,9,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Sandy,NO,0.033333333,2,Morning
+1,North,0.2,12,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.033333333,2,Morning
+0,South,0.15,9,,Product Support,1,14,,Outgoing,0,0,0.05,3,1,D,"Eric, George, Helga",Helga,NO,0.033333333,2,Evening
+0,North,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.05,3,Afternoon
+0,North,0.133333333,8,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.05,3,Morning
+0,South,0.133333333,8,7,Product Support,1,14,5,Incoming,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Afternoon
+0,North,0.15,9,6,Product Support,1,14,5,Incoming,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Afternoon
+0,North,0.133333333,8,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.066666667,4,Evening
+0,South,0.183333333,11,3,Product Support,1,14,2,Incoming,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Evening
+0,North,0.15,9,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Afternoon
+0,North,0.2,12,3,Product Support,1,14,1,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Morning
+0,North,0.166666667,10,3,Product Support,1,14,2,Incoming,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Afternoon
+0,North,0.2,12,5,Product Support,1,14,4,Incoming,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Afternoon
+0,South,0.183333333,11,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Susan,NO,0.033333333,2,Evening
+0,South,0.183333333,11,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,C,Sharon & Susan,Susan,NO,0.05,3,Evening
+0,South,0.183333333,11,3,Product Support,1,14,1,Incoming,0,0,0.033333333,2,1,D,"Alice, Randy, Sandy",Randy,NO,0.066666667,4,Morning
+0,North,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.05,3,Morning
+0,North,0.133333333,8,,Product Support,1,14,,Outgoing,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.05,3,Evening
+0,North,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.066666667,4,Afternoon
+0,South,0.133333333,8,6,Product Support,1,14,5,Incoming,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Morning
+0,South,0.15,9,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Susan,NO,0.05,3,Afternoon
+0,North,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Afternoon
+0,South,0.183333333,11,8,Product Support,1,14,5,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.033333333,2,Evening
+0,South,0.133333333,8,6,Product Support,1,14,5,Incoming,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Evening
+0,South,0.2,12,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Morning
+0,South,0.183333333,11,5,Product Support,1,14,2,Incoming,0,0,0.05,3,1,D,"Eric, George, Helga",George,NO,0.033333333,2,Morning
+0,North,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.033333333,2,Evening
+0,North,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Afternoon
+0,North,0.2,12,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Morning
+0,South,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,D,"Alice, Randy, Sandy",Randy,NO,0.05,3,Afternoon
+0,North,0.2,12,,Product Support,1,14,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Afternoon
+0,South,0.15,9,5,Product Support,1,14,4,Incoming,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.033333333,2,Evening
+0,South,0.133333333,8,7,Product Support,1,14,4,Incoming,0,0,0.05,3,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Evening
+0,South,0.15,9,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Morning
+0,North,0.133333333,8,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Morning
+0,North,0.15,9,6,Product Support,1,14,5,Incoming,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.066666667,4,Evening
+0,North,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Afternoon
+0,North,0.2,12,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.05,3,Morning
+0,South,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Afternoon
+0,North,0.183333333,11,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Afternoon
+0,North,0.15,9,,Product Support,1,14,,Outgoing,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.033333333,2,Evening
+0,North,0.133333333,8,2,Product Support,1,14,1,Incoming,0,0,0.016666667,1,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.05,3,Evening
+0,North,0.183333333,11,3,Product Support,1,14,1,Incoming,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.05,3,Afternoon
+0,North,0.133333333,8,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.033333333,2,Morning
+0,North,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.05,3,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.05,3,Afternoon
+0,South,0.2,12,,Product Support,1,14,,Outgoing,0,0,0.05,3,1,C,Sharon & Susan,Sharon,NO,0.033333333,2,Afternoon
+0,North,0.166666667,10,,Product Support,1,14,,Outgoing,0,0,0.016666667,1,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.05,3,Evening
+0,South,0.15,9,,Product Support,1,14,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Alice,NO,0.05,3,Evening
+0,South,0.133333333,8,4,Product Support,1,15,1,Incoming,0,0,0.05,3,1,D,"Eric, George, Helga",George,NO,0.066666667,4,Morning
+0,North,0.2,12,6,Product Support,1,15,4,Incoming,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Morning
+0,South,0.183333333,11,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Alice,NO,0.05,3,Evening
+0,South,0.15,9,6,Product Support,1,15,4,Incoming,0,0,0.033333333,2,1,D,"Alice, Randy, Sandy",Randy,NO,0.066666667,4,Afternoon
+0,North,0.15,9,6,Product Support,1,15,5,Incoming,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.033333333,2,Morning
+0,South,0.133333333,8,6,Product Support,1,15,4,Incoming,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Josh,NO,0.066666667,4,Afternoon
+0,South,0.183333333,11,,Product Support,1,15,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Sandy,NO,0.05,3,Afternoon
+0,South,0.166666667,10,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Karl,NO,0.033333333,2,Evening
+0,South,0.2,12,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Evening
+0,South,0.183333333,11,5,Product Support,1,15,4,Incoming,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Josh,NO,0.05,3,Morning
+0,North,0.15,9,,Product Support,1,15,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Morning
+0,South,0.166666667,10,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.033333333,2,Evening
+0,North,0.15,9,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.066666667,4,Morning
+0,South,0.166666667,10,,Product Support,1,15,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.033333333,2,Morning
+0,North,0.15,9,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.05,3,Evening
+0,South,0.133333333,8,,Product Support,1,15,,Outgoing,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Alice,NO,0.05,3,Afternoon
+0,North,0.183333333,11,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Morning
+0,North,0.133333333,8,8,Product Support,1,15,5,Incoming,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Afternoon
+0,South,0.183333333,11,,Product Support,1,15,,Outgoing,0,0,0.033333333,2,1,C,Sharon & Susan,Sharon,NO,0.066666667,4,Afternoon
+0,South,0.2,12,,Product Support,1,15,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Josh,NO,0.05,3,Evening
+0,South,0.183333333,11,5,Product Support,1,15,3,Incoming,0,0,0.033333333,2,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Evening
+0,North,0.166666667,10,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Morning
+0,South,0.183333333,11,,Product Support,1,15,,Outgoing,0,0,0.05,3,1,C,"Eric, George, Helga",Eric,NO,0.033333333,2,Morning
+0,North,0.166666667,10,5,Product Support,1,15,3,Incoming,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Evening
+0,South,0.166666667,10,3,Product Support,1,15,2,Incoming,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Afternoon
+0,South,0.133333333,8,,Product Support,1,15,,Outgoing,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Morning
+0,North,0.2,12,3,Product Support,1,15,2,Incoming,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.066666667,4,Afternoon
+0,North,0.133333333,8,,Product Support,1,15,,Outgoing,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Afternoon
+0,South,0.15,9,2,Product Support,1,15,1,Incoming,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.05,3,Evening
+0,South,0.2,12,5,Product Support,1,15,4,Incoming,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Josh,NO,0.033333333,2,Evening
+0,South,0.183333333,11,4,Product Support,1,15,3,Incoming,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.066666667,4,Afternoon
+0,North,0.133333333,8,,Product Support,1,15,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.033333333,2,Morning
+0,North,0.166666667,10,3,Product Support,1,15,2,Incoming,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.033333333,2,Afternoon
+0,South,0.2,12,,Product Support,1,15,,Outgoing,0,0,0.05,3,1,D,"Eric, George, Helga",Helga,NO,0.033333333,2,Afternoon
+0,North,0.166666667,10,,Product Support,1,15,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.033333333,2,Evening
+0,South,0.166666667,10,,Product Support,1,15,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Kate,NO,0.066666667,4,Evening
+0,South,0.15,9,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Morning
+0,North,0.166666667,10,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Morning
+0,South,0.183333333,11,7,Product Support,1,15,4,Incoming,0,0,0.05,3,1,C,Sharon & Susan,Susan,NO,0.05,3,Evening
+0,North,0.2,12,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.066666667,4,Afternoon
+0,North,0.15,9,,Product Support,1,15,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Morning
+0,South,0.166666667,10,,Product Support,1,15,,Outgoing,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Alice,NO,0.033333333,2,Morning
+0,North,0.2,12,3,Product Support,1,15,1,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.066666667,4,Morning
+0,North,0.2,12,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Evening
+0,North,0.183333333,11,4,Product Support,1,15,1,Incoming,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.066666667,4,Afternoon
+0,North,0.183333333,11,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Morning
+0,South,0.15,9,4,Product Support,1,15,3,Incoming,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.05,3,Afternoon
+0,North,0.15,9,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Afternoon
+0,North,0.183333333,11,,Product Support,1,15,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Evening
+0,South,0.166666667,10,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.033333333,2,Evening
+0,South,0.133333333,8,,Product Support,1,15,,Outgoing,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.05,3,Morning
+0,North,0.133333333,8,3,Product Support,1,15,2,Incoming,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Morning
+0,South,0.2,12,3,Product Support,1,15,2,Incoming,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Evening
+0,North,0.133333333,8,,Product Support,1,15,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Afternoon
+0,South,0.15,9,,Product Support,1,15,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.066666667,4,Morning
+0,North,0.183333333,11,,Product Support,1,15,,Outgoing,0,0,0.033333333,2,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.066666667,4,Afternoon
+0,South,0.183333333,11,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Susan,NO,0.05,3,Afternoon
+0,South,0.15,9,5,Product Support,1,15,2,Incoming,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.05,3,Evening
+0,South,0.2,12,6,Product Support,1,15,4,Incoming,0,0,0.033333333,2,1,D,"Eric, George, Helga",George,NO,0.033333333,2,Evening
+0,South,0.15,9,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.05,3,Afternoon
+0,South,0.2,12,,Product Support,1,15,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.033333333,2,Morning
+0,North,0.133333333,8,,Product Support,1,16,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Cam,YES,0.05,3,Afternoon
+0,South,0.166666667,10,6,Product Support,1,16,4,Incoming,0,0,0.033333333,2,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Afternoon
+0,North,0.133333333,8,,Product Support,1,16,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Evening
+0,South,0.15,9,,Product Support,1,16,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Josh,NO,0.05,3,Evening
+0,North,0.183333333,11,,Product Support,1,16,,Outgoing,0,0,0.05,3,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.033333333,2,Morning
+0,North,0.183333333,11,4,Product Support,1,16,1,Incoming,0,0,0.05,3,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.066666667,4,Morning
+0,South,0.183333333,11,,Product Support,1,16,,Outgoing,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Alice,NO,0.066666667,4,Evening
+0,South,0.183333333,11,,Product Support,1,16,,Outgoing,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Afternoon
+0,North,0.133333333,8,3,Product Support,1,16,2,Incoming,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Morning
+0,North,0.183333333,11,7,Product Support,1,16,5,Incoming,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Afternoon
+0,South,0.183333333,11,4,Product Support,1,16,1,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Josh,NO,0.05,3,Afternoon
+0,South,0.133333333,8,,Product Support,1,16,,Outgoing,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Evening
+0,North,0.183333333,11,,Product Support,1,16,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.066666667,4,Evening
+0,South,0.183333333,11,,Product Support,1,16,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Alice,NO,0.066666667,4,Morning
+0,North,0.2,12,,Product Support,1,16,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Morning
+0,South,0.183333333,11,,Product Support,1,16,,Outgoing,0,0,0.033333333,2,1,C,"Eric, George, Helga",Eric,NO,0.033333333,2,Evening
+0,North,0.133333333,8,,Product Support,1,16,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Morning
+0,North,0.166666667,10,4,Product Support,1,16,3,Incoming,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.05,3,Morning
+0,South,0.133333333,8,7,Product Support,1,16,5,Incoming,0,0,0.033333333,2,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Evening
+0,North,0.166666667,10,4,Product Support,1,16,1,Incoming,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.033333333,2,Afternoon
+0,North,0.15,9,,Product Support,1,16,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.05,3,Morning
+0,South,0.183333333,11,,Product Support,1,16,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.05,3,Afternoon
+0,South,0.166666667,10,2,Product Support,1,16,1,Incoming,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.066666667,4,Afternoon
+0,North,0.166666667,10,,Product Support,1,16,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,YES,0.066666667,4,Evening
+0,North,0.15,9,5,Product Support,1,16,2,Incoming,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.05,3,Evening
+0,North,0.15,9,,Product Support,1,16,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.05,3,Morning
+0,North,0.166666667,10,,Product Support,1,16,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.05,3,Morning
+0,North,0.2,12,,Product Support,1,16,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.05,3,Evening
+0,North,0.2,12,3,Product Support,1,16,1,Incoming,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.05,3,Afternoon
+0,South,0.15,9,,Product Support,1,16,,Outgoing,0,0,0.05,3,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Morning
+0,North,0.183333333,11,7,Product Support,1,16,4,Incoming,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.066666667,4,Afternoon
+0,South,0.2,12,7,Product Support,1,16,4,Incoming,0,0,0.05,3,1,D,"Eric, George, Helga",George,NO,0.05,3,Afternoon
+0,South,0.15,9,,Product Support,1,16,,Outgoing,0,0,0.033333333,2,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Evening
+0,North,0.133333333,8,,Product Support,1,16,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.05,3,Evening
+0,South,0.183333333,11,4,Product Support,1,16,3,Incoming,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Karl,NO,0.05,3,Afternoon
+1,South,0.15,9,,Product Support,1,16,,Outgoing,1,1,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.066666667,4,Morning
+0,South,0.15,9,,Product Support,1,16,,Outgoing,0,0,0.033333333,2,1,D,"Eric, George, Helga",George,NO,0.033333333,2,Afternoon
+0,South,0.183333333,11,,Product Support,1,16,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.033333333,2,Afternoon
+0,North,0.15,9,,Product Support,1,16,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Evening
+0,North,0.15,9,,Product Support,1,16,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.066666667,4,Evening
+0,North,0.183333333,11,,Product Support,1,16,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.05,3,Morning
+0,North,0.166666667,10,,Product Support,1,17,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.033333333,2,Morning
+0,North,0.133333333,8,,Product Support,1,17,,Outgoing,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.066666667,4,Evening
+0,North,0.183333333,11,,Product Support,1,17,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Afternoon
+0,South,0.166666667,10,5,Product Support,1,17,2,Incoming,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Alice,NO,0.066666667,4,Morning
+0,North,0.166666667,10,5,Product Support,1,17,4,Incoming,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Afternoon
+0,South,0.166666667,10,,Product Support,1,17,,Outgoing,0,0,0.033333333,2,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Afternoon
+0,South,0.2,12,,Product Support,1,17,,Outgoing,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Evening
+0,South,0.2,12,,Product Support,1,17,,Outgoing,0,0,0.033333333,2,1,D,"Eric, George, Helga",George,NO,0.05,3,Evening
+0,North,0.166666667,10,,Product Support,1,17,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Morning
+0,South,0.15,9,,Product Support,1,17,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Alice,NO,0.066666667,4,Morning
+0,South,0.2,12,6,Product Support,1,17,3,Incoming,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.066666667,4,Evening
+0,South,0.15,9,,Product Support,1,17,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Josh,NO,0.066666667,4,Afternoon
+0,South,0.15,9,,Product Support,1,17,,Outgoing,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.05,3,Morning
+0,North,0.166666667,10,,Product Support,1,17,,Outgoing,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Afternoon
+0,North,0.166666667,10,,Product Support,1,17,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Afternoon
+0,South,0.183333333,11,4,Product Support,1,17,1,Incoming,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Alice,NO,0.05,3,Evening
+0,North,0.133333333,8,,Product Support,1,17,,Outgoing,0,0,0.05,3,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.033333333,2,Evening
+0,South,0.15,9,,Product Support,1,17,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Josh,NO,0.066666667,4,Morning
+0,South,0.15,9,,Product Support,1,17,,Outgoing,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Morning
+0,South,0.183333333,11,,Product Support,1,17,,Outgoing,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Evening
+0,South,0.166666667,10,,Product Support,1,17,,Outgoing,0,0,0.05,3,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Afternoon
+0,South,0.2,12,,Product Support,1,17,,Outgoing,0,0,0.05,3,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Morning
+0,South,0.15,9,,Product Support,1,17,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Afternoon
+0,North,0.133333333,8,5,Product Support,1,17,3,Incoming,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.05,3,Afternoon
+0,South,0.166666667,10,,Product Support,1,17,,Outgoing,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.033333333,2,Evening
+0,South,0.2,12,5,Product Support,1,17,4,Incoming,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Evening
+0,North,0.2,12,,Product Support,1,17,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.033333333,2,Afternoon
+0,South,0.166666667,10,,Product Support,1,17,,Outgoing,0,0,0.033333333,2,1,D,"Eric, George, Helga",George,NO,0.05,3,Morning
+0,South,0.166666667,10,6,Product Support,1,17,5,Incoming,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.05,3,Afternoon
+0,North,0.183333333,11,,Product Support,1,17,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Afternoon
+0,South,0.166666667,10,4,Product Support,1,17,1,Incoming,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Evening
+0,North,0.133333333,8,,Product Support,1,17,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.066666667,4,Evening
+0,North,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Morning
+0,South,0.183333333,11,5,Sales Support,1,10,4,Incoming,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.066666667,4,Morning
+0,South,0.133333333,8,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,D,"Eric, George, Helga",George,NO,0.033333333,2,Evening
+0,South,0.133333333,8,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Afternoon
+0,South,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Karl,NO,0.033333333,2,Morning
+0,North,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.033333333,2,Afternoon
+0,North,0.133333333,8,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.033333333,2,Afternoon
+0,North,0.15,9,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Evening
+0,North,0.133333333,8,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Evening
+0,South,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Kate,NO,0.033333333,2,Morning
+0,South,0.133333333,8,4,Sales Support,1,10,3,Incoming,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Morning
+0,North,0.133333333,8,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Evening
+0,North,0.133333333,8,5,Sales Support,1,10,3,Incoming,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Morning
+0,South,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.05,3,Morning
+0,North,0.2,12,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Evening
+0,North,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.033333333,2,Afternoon
+0,North,0.15,9,5,Sales Support,1,10,3,Incoming,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.05,3,Morning
+0,North,0.133333333,8,6,Sales Support,1,10,5,Incoming,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Afternoon
+0,South,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Afternoon
+0,North,0.15,9,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.05,3,Evening
+0,South,0.2,12,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Sandy,NO,0.033333333,2,Evening
+0,North,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.066666667,4,Morning
+0,South,0.15,9,2,Sales Support,1,10,1,Incoming,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Kate,NO,0.033333333,2,Morning
+0,North,0.15,9,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.05,3,Evening
+0,South,0.183333333,11,6,Sales Support,1,10,5,Incoming,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Josh,NO,0.05,3,Afternoon
+0,South,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Alice,NO,0.066666667,4,Morning
+0,South,0.133333333,8,8,Sales Support,1,10,5,Incoming,0,0,0.05,3,1,D,"Eric, George, Helga",Helga,NO,0.05,3,Afternoon
+0,South,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Josh,NO,0.066666667,4,Afternoon
+0,North,0.15,9,7,Sales Support,1,10,4,Incoming,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Evening
+0,South,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.066666667,4,Evening
+0,North,0.15,9,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.033333333,2,Afternoon
+0,South,0.133333333,8,3,Sales Support,1,10,1,Incoming,0,0,0.033333333,2,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Morning
+0,South,0.166666667,10,5,Sales Support,1,10,3,Incoming,0,0,0.033333333,2,1,D,"Eric, George, Helga",George,NO,0.033333333,2,Afternoon
+0,South,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Alice,NO,0.033333333,2,Afternoon
+0,South,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.033333333,2,Evening
+0,South,0.166666667,10,5,Sales Support,1,10,3,Incoming,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Evening
+0,South,0.15,9,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Morning
+0,South,0.166666667,10,3,Sales Support,1,10,1,Incoming,0,0,0.033333333,2,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Morning
+0,South,0.2,12,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Kate,NO,0.066666667,4,Evening
+0,South,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.05,3,Afternoon
+0,North,0.2,12,7,Sales Support,1,10,5,Incoming,0,0,0.033333333,2,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.033333333,2,Morning
+0,North,0.2,12,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.033333333,2,Evening
+0,North,0.133333333,8,5,Sales Support,1,10,3,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.066666667,4,Afternoon
+0,North,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.033333333,2,Morning
+0,South,0.2,12,5,Sales Support,1,10,3,Incoming,0,0,0.033333333,2,1,C,"Eric, George, Helga",Eric,NO,0.033333333,2,Afternoon
+0,South,0.2,12,3,Sales Support,1,10,2,Incoming,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Afternoon
+0,North,0.2,12,4,Sales Support,1,10,2,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Evening
+0,North,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.066666667,4,Evening
+0,South,0.133333333,8,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Karl,NO,0.066666667,4,Afternoon
+0,South,0.15,9,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Morning
+0,North,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.066666667,4,Afternoon
+0,South,0.2,12,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Karl,NO,0.033333333,2,Afternoon
+0,North,0.2,12,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.066666667,4,Evening
+0,South,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Evening
+0,North,0.166666667,10,7,Sales Support,1,10,4,Incoming,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.05,3,Morning
+0,North,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Morning
+0,South,0.15,9,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Alice,NO,0.05,3,Evening
+0,South,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Josh,NO,0.033333333,2,Afternoon
+0,North,0.183333333,11,4,Sales Support,1,10,2,Incoming,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Morning
+0,South,0.166666667,10,3,Sales Support,1,10,2,Incoming,0,0,0.016666667,1,1,D,"Alice, Randy, Sandy",Randy,NO,0.066666667,4,Afternoon
+0,South,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,C,Sharon & Susan,Sharon,NO,0.066666667,4,Afternoon
+0,North,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.05,3,Evening
+0,South,0.15,9,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Evening
+0,South,0.2,12,2,Sales Support,1,10,1,Incoming,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Alice,NO,0.05,3,Morning
+0,South,0.183333333,11,6,Sales Support,1,10,3,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.033333333,2,Morning
+0,South,0.15,9,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.05,3,Evening
+0,North,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.033333333,2,Morning
+0,South,0.133333333,8,5,Sales Support,1,10,4,Incoming,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Morning
+0,South,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Josh,NO,0.066666667,4,Evening
+0,North,0.15,9,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Afternoon
+0,South,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.066666667,4,Morning
+0,South,0.166666667,10,,Sales Support,1,10,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Josh,NO,0.066666667,4,Afternoon
+0,South,0.183333333,11,,Sales Support,1,10,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Karl,NO,0.066666667,4,Afternoon
+0,South,0.183333333,11,,Sales Support,1,11,,Outgoing,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Evening
+0,South,0.2,12,,Sales Support,1,11,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Josh,NO,0.05,3,Evening
+0,North,0.183333333,11,2,Sales Support,1,11,1,Incoming,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.05,3,Morning
+0,North,0.15,9,4,Sales Support,1,11,1,Incoming,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.05,3,Morning
+0,South,0.133333333,8,,Sales Support,1,11,,Outgoing,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Evening
+0,North,0.2,12,,Sales Support,1,11,,Outgoing,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.033333333,2,Afternoon
+0,North,0.133333333,8,,Sales Support,1,11,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Morning
+0,North,0.166666667,10,,Sales Support,1,11,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.066666667,4,Afternoon
+0,South,0.15,9,,Sales Support,1,11,,Outgoing,0,0,0.033333333,2,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Afternoon
+0,South,0.133333333,8,,Sales Support,1,11,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.05,3,Evening
+0,South,0.15,9,,Sales Support,1,11,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Josh,NO,0.033333333,2,Evening
+0,North,0.2,12,7,Sales Support,1,11,4,Incoming,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.033333333,2,Afternoon
+0,South,0.133333333,8,,Sales Support,1,11,,Outgoing,0,0,0.05,3,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Morning
+0,South,0.133333333,8,,Sales Support,1,11,,Outgoing,0,0,0.033333333,2,1,D,"Alice, Randy, Sandy",Randy,NO,0.05,3,Afternoon
+0,South,0.2,12,,Sales Support,1,11,,Outgoing,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Afternoon
+0,North,0.133333333,8,5,Sales Support,1,11,3,Incoming,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Evening
+0,North,0.166666667,10,4,Sales Support,1,11,2,Incoming,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Evening
+0,North,0.2,12,,Sales Support,1,11,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Cam,NO,0.033333333,2,Morning
+0,South,0.15,9,5,Sales Support,1,11,3,Incoming,0,0,0.033333333,2,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Morning
+0,North,0.133333333,8,,Sales Support,1,11,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.033333333,2,Evening
+0,South,0.15,9,,Sales Support,1,11,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Josh,NO,0.066666667,4,Afternoon
+0,North,0.166666667,10,,Sales Support,1,11,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.033333333,2,Morning
+0,South,0.2,12,5,Sales Support,1,11,2,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Afternoon
+0,North,0.183333333,11,,Sales Support,1,11,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Afternoon
+0,South,0.183333333,11,,Sales Support,1,11,,Outgoing,0,0,0.033333333,2,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Evening
+0,South,0.15,9,6,Sales Support,1,11,4,Incoming,0,0,0.033333333,2,1,D,"Eric, George, Helga",Helga,NO,0.05,3,Evening
+0,North,0.2,12,6,Sales Support,1,11,3,Incoming,0,0,0.05,3,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.066666667,4,Morning
+0,South,0.2,12,,Sales Support,1,12,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Morning
+0,South,0.133333333,8,4,Sales Support,1,12,3,Incoming,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.066666667,4,Evening
+0,North,0.15,9,8,Sales Support,1,12,5,Incoming,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Afternoon
+0,North,0.15,9,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.033333333,2,Morning
+0,North,0.166666667,10,8,Sales Support,1,12,5,Incoming,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.05,3,Afternoon
+0,South,0.133333333,8,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Afternoon
+0,South,0.166666667,10,5,Sales Support,1,12,3,Incoming,0,0,0.033333333,2,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Evening
+0,South,0.166666667,10,,Sales Support,1,12,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Josh,NO,0.066666667,4,Evening
+0,South,0.15,9,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Morning
+0,North,0.15,9,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.066666667,4,Morning
+0,North,0.15,9,4,Sales Support,1,12,2,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Evening
+0,South,0.2,12,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Josh,NO,0.05,3,Afternoon
+0,South,0.166666667,10,,Sales Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.033333333,2,Morning
+0,North,0.166666667,10,5,Sales Support,1,12,4,Incoming,0,0,0.016666667,1,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.05,3,Afternoon
+0,North,0.183333333,11,,Sales Support,1,12,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.066666667,4,Afternoon
+0,South,0.2,12,5,Sales Support,1,12,2,Incoming,0,0,0.05,3,1,C,"Eric, George, Helga",Eric,NO,0.033333333,2,Evening
+0,North,0.2,12,5,Sales Support,1,12,4,Incoming,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.066666667,4,Evening
+0,South,0.15,9,6,Sales Support,1,12,3,Incoming,0,0,0.05,3,1,C,Sharon & Susan,Sharon,NO,0.033333333,2,Afternoon
+0,South,0.2,12,5,Sales Support,1,12,4,Incoming,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.05,3,Morning
+0,South,0.166666667,10,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.05,3,Afternoon
+0,South,0.133333333,8,4,Sales Support,1,12,1,Incoming,0,0,0.05,3,1,C,"Alice, Randy, Sandy",Sandy,NO,0.05,3,Afternoon
+0,North,0.183333333,11,,Sales Support,1,12,,Outgoing,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Evening
+0,South,0.133333333,8,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Evening
+0,South,0.133333333,8,4,Sales Support,1,12,3,Incoming,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Morning
+0,North,0.2,12,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.05,3,Morning
+0,South,0.15,9,6,Sales Support,1,12,4,Incoming,0,0,0.033333333,2,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Evening
+0,South,0.166666667,10,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.033333333,2,Afternoon
+0,North,0.15,9,5,Sales Support,1,12,3,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.066666667,4,Morning
+0,South,0.183333333,11,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.05,3,Afternoon
+0,South,0.2,12,6,Sales Support,1,12,4,Incoming,0,0,0.033333333,2,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Afternoon
+0,North,0.133333333,8,,Sales Support,1,12,,Outgoing,0,0,0.05,3,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.066666667,4,Evening
+0,South,0.2,12,7,Sales Support,1,12,4,Incoming,0,0,0.05,3,1,C,Sharon & Susan,Sharon,NO,0.05,3,Evening
+0,South,0.166666667,10,,Sales Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.033333333,2,Morning
+0,South,0.183333333,11,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Kate,NO,0.066666667,4,Morning
+0,North,0.166666667,10,6,Sales Support,1,12,5,Incoming,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.033333333,2,Evening
+0,North,0.166666667,10,5,Sales Support,1,12,4,Incoming,0,0,0.016666667,1,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.05,3,Morning
+0,South,0.133333333,8,4,Sales Support,1,12,3,Incoming,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Morning
+0,South,0.166666667,10,6,Sales Support,1,12,3,Incoming,0,0,0.05,3,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Evening
+0,North,0.15,9,6,Sales Support,1,12,3,Incoming,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.066666667,4,Afternoon
+0,South,0.183333333,11,6,Sales Support,1,12,5,Incoming,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.033333333,2,Morning
+0,South,0.2,12,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.066666667,4,Afternoon
+0,South,0.166666667,10,,Sales Support,1,12,,Outgoing,0,0,0.033333333,2,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Afternoon
+0,South,0.133333333,8,,Sales Support,1,12,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Josh,NO,0.033333333,2,Evening
+0,North,0.166666667,10,4,Sales Support,1,12,3,Incoming,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Lilly,NO,0.033333333,2,Evening
+0,South,0.133333333,8,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,Sharon & Susan,Susan,NO,0.066666667,4,Morning
+0,South,0.183333333,11,,Sales Support,1,12,,Outgoing,0,0,0.033333333,2,1,C,Sharon & Susan,Sharon,NO,0.066666667,4,Morning
+0,South,0.166666667,10,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Evening
+0,North,0.166666667,10,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.033333333,2,Afternoon
+0,South,0.2,12,,Sales Support,1,12,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.066666667,4,Morning
+0,South,0.133333333,8,5,Sales Support,1,13,3,Incoming,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Alice,NO,0.05,3,Afternoon
+0,North,0.15,9,4,Sales Support,1,13,2,Incoming,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.033333333,2,Afternoon
+0,North,0.2,12,,Sales Support,1,13,,Outgoing,0,0,0.05,3,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.033333333,2,Evening
+0,North,0.166666667,10,4,Sales Support,1,13,2,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Evening
+0,South,0.183333333,11,,Sales Support,1,13,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.05,3,Afternoon
+0,South,0.2,12,,Sales Support,1,13,,Outgoing,0,0,0.033333333,2,1,C,Sharon & Susan,Sharon,NO,0.066666667,4,Morning
+0,North,0.183333333,11,,Sales Support,1,13,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Afternoon
+0,South,0.15,9,4,Sales Support,1,13,2,Incoming,0,0,0.033333333,2,1,D,"Alice, Randy, Sandy",Randy,NO,0.033333333,2,Afternoon
+0,South,0.133333333,8,,Sales Support,1,13,,Outgoing,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Kate,NO,0.033333333,2,Evening
+0,North,0.166666667,10,,Sales Support,1,13,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.05,3,Evening
+0,South,0.133333333,8,6,Sales Support,1,13,5,Incoming,0,0,0.016666667,1,1,C,Sharon & Susan,Sharon,NO,0.033333333,2,Morning
+0,North,0.2,12,,Sales Support,1,13,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.033333333,2,Morning
+0,South,0.166666667,10,,Sales Support,1,13,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.05,3,Evening
+0,North,0.2,12,,Sales Support,1,13,,Outgoing,0,0,0.033333333,2,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.066666667,4,Afternoon
+0,South,0.15,9,2,Sales Support,1,13,1,Incoming,0,0,0.016666667,1,1,D,"Josh, Karl, Kate",Karl,NO,0.066666667,4,Morning
+0,South,0.133333333,8,6,Sales Support,1,13,4,Incoming,0,0,0.033333333,2,1,C,Sharon & Susan,Sharon,NO,0.066666667,4,Morning
+0,South,0.166666667,10,,Sales Support,1,13,,Outgoing,0,0,0.016666667,1,1,C,"Eric, George, Helga",Eric,NO,0.05,3,Morning
+0,North,0.2,12,,Sales Support,1,13,,Outgoing,0,0,0.016666667,1,1,A,"Joe, Lilly, Todd and 1 more",Joe,NO,0.05,3,Evening
+0,North,0.133333333,8,6,Sales Support,1,14,4,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Afternoon
+0,North,0.183333333,11,,Sales Support,1,14,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.066666667,4,Morning
+0,North,0.15,9,,Sales Support,1,14,,Outgoing,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.05,3,Afternoon
+0,North,0.166666667,10,5,Sales Support,1,14,4,Incoming,0,0,0.016666667,1,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.05,3,Afternoon
+0,South,0.133333333,8,,Sales Support,1,14,,Outgoing,0,0,0.033333333,2,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Evening
+0,South,0.166666667,10,5,Sales Support,1,14,3,Incoming,0,0,0.033333333,2,1,D,"Josh, Karl, Kate",Karl,NO,0.066666667,4,Evening
+0,South,0.15,9,,Sales Support,1,14,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.05,3,Morning
+0,North,0.183333333,11,,Sales Support,1,14,,Outgoing,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Morning
+0,North,0.2,12,,Sales Support,1,14,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Evening
+0,South,0.2,12,5,Sales Support,1,14,3,Incoming,0,0,0.033333333,2,1,C,"Alice, Randy, Sandy",Sandy,NO,0.033333333,2,Afternoon
+0,North,0.2,12,5,Sales Support,1,15,4,Incoming,0,0,0.016666667,1,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.05,3,Morning
+0,South,0.133333333,8,,Sales Support,1,15,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",George,NO,0.05,3,Afternoon
+0,North,0.183333333,11,,Sales Support,1,15,,Outgoing,0,0,0.05,3,1,B,"Joe, Lilly, Todd and 1 more",Xander,NO,0.033333333,2,Afternoon
+0,South,0.2,12,5,Sales Support,1,15,4,Incoming,0,0,0.016666667,1,1,C,"Alice, Randy, Sandy",Sandy,NO,0.066666667,4,Evening
+0,North,0.183333333,11,8,Sales Support,1,15,5,Incoming,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.033333333,2,Evening
+0,South,0.133333333,8,,Sales Support,1,15,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Afternoon
+0,South,0.15,9,7,Sales Support,1,16,4,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Karl,NO,0.05,3,Morning
+0,North,0.133333333,8,,Sales Support,1,16,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Afternoon
+0,North,0.133333333,8,6,Sales Support,1,16,4,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Duke,NO,0.05,3,Afternoon
+0,South,0.183333333,11,,Sales Support,1,16,,Outgoing,0,0,0.05,3,1,D,"Josh, Karl, Kate",Kate,NO,0.05,3,Evening
+0,North,0.183333333,11,3,Sales Support,1,16,1,Incoming,0,0,0.033333333,2,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Evening
+0,North,0.15,9,,Sales Support,1,16,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Amanda,NO,0.033333333,2,Morning
+0,South,0.133333333,8,,Sales Support,1,16,,Outgoing,0,0,0.016666667,1,1,D,"Eric, George, Helga",Helga,NO,0.066666667,4,Morning
+0,South,0.183333333,11,7,Sales Support,1,16,4,Incoming,0,0,0.05,3,1,D,"Josh, Karl, Kate",Josh,NO,0.033333333,2,Evening
+0,North,0.166666667,10,,Sales Support,1,16,,Outgoing,0,0,0.05,3,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.066666667,4,Afternoon
+0,South,0.183333333,11,5,Sales Support,1,16,3,Incoming,0,0,0.033333333,2,1,D,"Eric, George, Helga",George,NO,0.033333333,2,Morning
+0,South,0.15,9,,Sales Support,1,17,,Outgoing,0,0,0.05,3,1,D,"Eric, George, Helga",Helga,NO,0.033333333,2,Afternoon
+0,North,0.133333333,8,,Sales Support,1,17,,Outgoing,0,0,0.016666667,1,1,B,"Amanda, Andy, Brent and 2 more",Brent,NO,0.05,3,Afternoon
+0,North,0.2,12,,Sales Support,1,17,,Outgoing,0,0,0.033333333,2,1,B,"Joe, Lilly, Todd and 1 more",Todd,NO,0.066666667,4,Evening
+0,North,0.2,12,,Sales Support,1,17,,Outgoing,0,0,0.033333333,2,1,A,"Amanda, Andy, Brent and 2 more",Andy,NO,0.05,3,Evening
+0,South,0.2,12,,Sales Support,1,17,,Outgoing,0,0,0.05,3,1,C,"Eric, George, Helga",Eric,NO,0.066666667,4,Morning
