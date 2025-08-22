@@ -20,11 +20,17 @@ This dataset contains detailed information about individual sales calls, includi
 ### 1. Distribution of Call Purposes
 This bar chart shows the frequency of different reasons customers contact the call center. It highlights that while **Sales Support** is the primary reason, a significant number of calls are also related to **Complaints** and other service issues.
 
+![Alt text](call_purpose_distribution.png)
+
 ### 2. Sales Success Rate by Branch
 This visualization compares the sales conversion rate between the **North** and **South** branches. It reveals a major performance difference, with the **South branch significantly outperforming** the North branch in converting calls into sales. This suggests different strategies or operational efficiencies are at play.
 
+![Alt text](sales_success_rate.png)
+
 ### 3. Call Volume by Shift and Branch
 This stacked bar chart illustrates how call volume is distributed across different shifts and branches. It identifies the **Evening shift** as the busiest period, indicating where additional resources might be needed to handle peak demand. The **North branch** also consistently handles a higher volume of calls overall.
+
+![Alt text](call_volume_by_shift_branch.png)
 
 ---
 
